@@ -1,0 +1,25 @@
+@charset"UTF-8";
+
+body{
+    margin: 20px;
+}
+header{
+    background-color: #555;
+    min-height: 100px;
+}
+section{
+    display: flex;
+    min-height: 600px;
+}
+aside{
+    width: 200px;
+    background-color: #888;
+}
+main{
+    flex: 1;
+    background-color: #999;
+}
+footer{
+    background-color: #555;
+    min-height: 100px;
+}
